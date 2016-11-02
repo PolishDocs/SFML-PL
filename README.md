@@ -6,5 +6,5 @@ Note that this project is just a translation of [SFML](https://github.com/SFML/S
 
 ##Czym jest SFML?
 
-SFML, a właściwie Simple Fast Multimedia Library (Łatwa Szybka Biblioteka Multimedialna), to biblioteka graficzna dla gier dwuwymiarowych.
+SFML, a właściwie Simple Fast Multimedia Library (Prosta Szybka Biblioteka Multimedialna), to biblioteka graficzna dla gier dwuwymiarowych.
 Jeśli szukasz pomocy z SFML udaj się na http://www.sfml-dev.org/. Znajdziesz tam forum na którym możesz zadawać pytania w języku angielskim.
